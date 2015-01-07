@@ -24,7 +24,7 @@
 	<button class="bnav" onclick="loadContent('skill.php')" id="bRes">Skill</button>
 	<button class="bnav" onclick="loadContent('project.php')" id="bProject">Project</button>
 	<button class="bnav" onclick="loadContent('contact.php')" id="bContact">Contact</button>
-	<button class="bnav" onclick="loadContent('more.php')" id="bMore">More</button>
+	<button class="bnav" onclick="loadContent('more.php')" id="bMore">Comments</button>
 </div>
 <hr>
 <button class ="toTop" id="toTop" onclick="goToTop()"><strong>TOP</strong></button>

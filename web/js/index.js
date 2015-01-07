@@ -14,10 +14,12 @@ function loadContent(str)
 	  if (xmlhttp.readyState==4 && xmlhttp.status==200)
 	    {
 	    document.getElementById("content").innerHTML=xmlhttp.responseText;
+      FB.XFBML.parse();
 	    }
 	}
 	xmlhttp.open("GET", str, true);
 	xmlhttp.send();
+
 return false;
 }
 

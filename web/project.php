@@ -10,6 +10,15 @@
 </tr>
 <tr>
 	<td>
+		<h2>Charboard</h2>
+		<p>An Android game for casual player. Rules simple and easy. Players must rely on both luck and their intelligence to obtain the most points possible</p>
+	</td>
+	<td>
+		<img src="image/charboard.png">
+	</td>
+</tr>
+<tr>
+	<td>
 		<h2>Soda Fountain</h2>
 		<p>A water dispenser which is capable of dispensing both hot and cold water. It is capable of detecting water level as well as temperature and auto-filling.</p>
 	</td>

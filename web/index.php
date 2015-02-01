@@ -7,32 +7,16 @@
 
 </head>
 <body>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '1454085474849162',
-      xfbml      : true,
-      version    : 'v2.2'
-    });
-  };
+<script type="text/javascript" src="js/facebook.js"></script>
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-
-<div>
+<div class="nav">
 	<button class="bnav" onclick="loadContent('home.php')" id="bHome">Home</button>
 	<button class="bnav" onclick="loadContent('skill.php')" id="bRes">Skill</button>
 	<button class="bnav" onclick="loadContent('project.php')" id="bProject">Project</button>
 	<button class="bnav" onclick="loadContent('contact.php')" id="bContact">Contact</button>
 	<button class="bnav" onclick="loadContent('more.php')" id="bMore">Comments</button>
 </div>
-<hr>
+
 <button class ="toTop" id="toTop" onclick="goToTop()"><strong>TOP</strong></button>
 <div class ="content" id="content">
 	<?php

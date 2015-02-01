@@ -17,13 +17,13 @@ margin:0px;
 
 li.nav{
 float:left;
-width: 20%;}
+}
 
 .bnav{
 border: none;
 display: incline-block;
 text-decoration: none;
-width: 19.7%;
+width: 19.5%;
 color: black;
 background-color: #FFFFFF;
 text-align: center;
@@ -36,6 +36,15 @@ border-radius: 10px;
 
 .bnav :hover{
 	background-color: #FFD700;
+}
+
+@media screen and (max-width: 1000px) {
+    .bnav {
+        width: 18%;
+    }
+    p{
+    	font-size: 12px;
+    }
 }
 
 a.blocknav{

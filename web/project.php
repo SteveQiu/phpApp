@@ -8,15 +8,15 @@
 		<img src="image/wayFinder.png">
 	</td>
 </tr>
-<!-- <tr>
-	<td>
-		<h2>Charboard</h2>
-		<p>An Android game for casual player. Rules simple and easy. Players must rely on both luck and their intelligence to obtain the most points possible</p>
-	</td>
-	<td>
-		<img src="image/charboard.png">
-	</td>
-</tr> -->
+	<tr>
+		<td>
+			<h2>Charboard</h2>
+			<p>An Android game for casual player. Rules simple and easy. Players must rely on both luck and their intelligence to obtain the most points possible</p>
+		</td>
+		<td>
+			<img src="image/charboard.png">
+		</td>
+	</tr>
 <tr>
 	<td>
 		<h2>Soda Fountain</h2>

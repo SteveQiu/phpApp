@@ -8,6 +8,13 @@
 </tr>
 <tr>
 	<td>
+		<h2>Checklist/Todo List</h2>
+		<p>MEAN(MongoDB ExpressJS AngularJS NodeJS) stack. This is of an TODO List application for personal/team goal management</p>
+	</td>
+	<td><img src="image/checklist.jpg"></td>
+</tr>
+<tr>
+	<td>
 		<h2>Note Taking App</h2>
 		<p>A note app on web developed with Django, python, Prestigue SQL</p>
 	</td>

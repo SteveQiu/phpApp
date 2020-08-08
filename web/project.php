@@ -1,5 +1,19 @@
 <table class="proTable">
 <tr>
+	<td>
+		<h2>Ruby On Rail</h2>
+		<p>An app to record music information</p>
+	</td>
+	<td><img src="image/rail.jpg"></td>
+</tr>
+<tr>
+	<td>
+		<h2>Note Taking App</h2>
+		<p>A note app on web developed with Django, python, Prestigue SQL</p>
+	</td>
+	<td><img src="image/note.jpg"></td>
+</tr>
+<tr>
 	<td width="650">
 		<h2>Path Finder</h2>
 		<p>A map application that directs new visitors to their destination. It also uses QR code at a specific place to locate current position.One of top 3rd and 4th year projects.</p>
@@ -49,8 +63,7 @@
 		<h2>Early stage Webpage</h2>
 		<p>A SQL based webpage with make-up data</p>
 	</td>
-	<td>
-		<img src="image/hospital.png">
-	</td>
+	<td><img src="image/hospital.png"></td>
 </tr>
+
 </table>

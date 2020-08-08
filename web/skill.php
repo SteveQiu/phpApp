@@ -7,5 +7,7 @@
 	<br>
 	<h3>Databases</h3>
 	<p>MySQL, MongoDB</p>
+	<h3>Media</h3>
+	<p>Photo Editing</p>
 	<br>
 </div>
